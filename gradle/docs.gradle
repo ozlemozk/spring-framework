@@ -16,6 +16,7 @@ repositories {
 }
 
 /**
+//tüm modüller için
  * Produce Javadoc for all Spring Framework modules in "build/docs/javadoc"
  */
 task api(type: Javadoc) {
